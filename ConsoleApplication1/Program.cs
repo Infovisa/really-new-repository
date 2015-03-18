@@ -11,6 +11,7 @@ namespace ConsoleApplication1
 		static void Main(string[] args)
 		{
             Console.WriteLine("Greetings mark!");
+			Console.WriteLine("The line after that one.");
 		}
 	}
 }

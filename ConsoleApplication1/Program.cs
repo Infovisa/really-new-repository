@@ -10,7 +10,7 @@ namespace ConsoleApplication1
 	{
 		static void Main(string[] args)
 		{
-            Console.WriteLine("Greetings mark! Eat this fork!");
+            Console.WriteLine("Greetings mark! FORK TWO!");
 		}
 	}
 }
